@@ -21,19 +21,19 @@ Step 1
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Step 2
--> Change permissions 
->chmod -R 777 replica11 
->chmod -R 777 replica12 
->chmod -R 777 replica13 
->chmod -R 777 replica21 
->chmod -R 777 replica22 
->chmod -R 777 replica23 
->chmod -R 777 replica31 
->chmod -R 777 replica32 
->chmod -R 777 replica33 
->chmod -R 777 cfg0 
->chmod -R 777 cfg1 
->chmod -R 777 cfg2 
+-> Change permissions if required 
+# > chmod -R 777 replica11 
+# > chmod -R 777 replica12 
+# > chmod -R 777 replica13 
+# > chmod -R 777 replica21 
+# > chmod -R 777 replica22 
+# > chmod -R 777 replica23 
+# > chmod -R 777 replica31 
+# > chmod -R 777 replica32 
+# > chmod -R 777 replica33 
+# > chmod -R 777 cfg0 
+# > chmod -R 777 cfg1 
+# > chmod -R 777 cfg2 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Step 3
